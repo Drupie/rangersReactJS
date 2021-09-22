@@ -1,0 +1,14 @@
+.welcome{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.welcome img{
+    width: 100px ;
+    height: 100px;
+} .welcome h1{
+    background-color: #c0392b;
+    padding: 10px;
+    color: #fafafa;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
